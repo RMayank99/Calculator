@@ -1,0 +1,64 @@
+body{
+    background-image: url("bgimg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Special Elite', cursive;
+}
+
+.container{
+    text-align: center;
+    margin-top:3%;
+}
+.pox{
+   background-color: black;
+   border-top-left-radius: 2%;
+   border-top-right-radius:2%;
+}
+
+input{
+    border-radius: 21px;
+    font-size: 2rem;
+    width:100%;
+    border:5px solid grey;
+    outline:none;
+    background-color: white;
+}
+
+h4{
+    margin-top:2rem;
+    margin-bottom:1rem;
+    margin-top:1rem;
+    color:white;
+    margin-left: 33%;
+}
+
+button{
+    font-size: 40px;
+    display: block;
+    position: relative;
+    text-align: center;
+    outline:none;
+    background-color:black;
+    width:70%;
+    height:60%;
+    margin-top:2rem;
+    margin-left:15%;
+    border-radius: 10%;
+    color:white;
+    padding:0px;
+    box-shadow: 5px 10px #484848;
+}
+.clear{
+    background-color:red;
+}
+.row{
+    background-color: grey;
+}
+.input{
+    background-color:black;
+    padding:25px;
+}
+
+
